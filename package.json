@@ -1,0 +1,70 @@
+{
+  "name": "safe-road",
+  "proxy": "http://stat.gibdd.ru/",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.12",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.2.0",
+    "auto-prefixer": "^0.4.2",
+    "axios": "^0.19.2",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "bootstrap": "^4.4.1",
+    "clsx": "^1.1.0",
+    "cookie-parser": "^1.4.5",
+    "css-loader": "^3.5.3",
+    "dayjs": "^1.8.26",
+    "debug": "^4.1.1",
+    "engine": "^1.0.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "jade": "^1.11.0",
+    "jquery": "^3.5.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.8",
+    "react-bootstrap": "^1.0.1",
+    "react-bootstrap-button-loader": "^2.0.0",
+    "react-css-themr": "^2.1.2",
+    "react-dom": "^16.13.1",
+    "react-json-parser": "^0.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-serialize": "^0.2.0",
+    "react-style-proptype": "^3.2.2",
+    "react-toolbox": "^2.0.0-beta.13",
+    "react-transition-group": "^4.3.0",
+    "react-yandex-maps": "^4.3.0",
+    "sass-loader": "^8.0.2",
+    "styled-components": "^5.1.0",
+    "typescript": "^3.8.3",
+    "victory": "^34.3.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
